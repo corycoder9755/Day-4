@@ -16,7 +16,7 @@ Command : ```sudo ufw deny 23```
 
 # Task 4
 ## Test the rule by connecting
-command : ```telnet {ip_of_machine}
+command : ```telnet {ip_of_machine}```
 ![snapshot of telnet connection](Media/telnet_deny_screenshot.png)
 
 # Task 5
