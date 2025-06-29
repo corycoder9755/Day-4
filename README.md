@@ -1,7 +1,7 @@
 # Elevated Labs Cyber Security Internship
 
-Day : 3
-Date : 26/06/2025
+Day : 3\
+Date : 26/06/2025\
 Difficulty : Easy
 
 # About
